@@ -46,6 +46,9 @@ main{
 
 html, body{
     height: 100%;
+}
+
+html{
     scroll-behavior: smooth;
 }
 
@@ -61,4 +64,3 @@ html, body{
 .class3:hover{
     background-color:lightgrey;
 }
-
