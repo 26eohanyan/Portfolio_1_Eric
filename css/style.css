@@ -16,8 +16,8 @@ header, footer{
     justify-content: center;
 }
 
-nav, aside{
-    flex: 1;
+nav{
+    flex: 0.3;
 }
 
 main{
@@ -37,23 +37,20 @@ footer{
 }
 
 nav{
-    background-color: lightblue;
+    background-color: gray;
 }
 
 main{
     background-color: darkgrey;
 }
 
-aside{
-    background-color: bisque;
-}
-
 html, body{
     height: 100%;
+    scroll-behavior: smooth;
 }
 
 .class3{
-    background-color: grey;
+    background-color: darkgrey;
     padding: 1rem 1rem;
     margin: 1rem 2rem;
     transition: background-color 0.3s ease;
@@ -62,6 +59,6 @@ html, body{
 }
 
 .class3:hover{
-    background-color:blueviolet;
+    background-color:lightgrey;
 }
 
