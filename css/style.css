@@ -18,6 +18,7 @@ header, footer{
 
 nav{
     flex: 0.3;
+    position: sticky;
 }
 
 main{
