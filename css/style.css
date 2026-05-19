@@ -19,6 +19,9 @@ header, footer{
 nav{
     flex: 0.3;
     position: sticky;
+    top: -150px;
+	padding-top: 150px;
+	opacity: 1;
 }
 
 main{
@@ -64,4 +67,12 @@ html{
 
 .class3:hover{
     background-color:lightgrey;
+}
+
+.section-break {
+  margin-bottom: 30rem;
+}
+
+h1, h2, h3, p{
+    text-align: center;
 }
