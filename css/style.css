@@ -18,10 +18,6 @@ header, footer{
 
 nav{
     flex: 0.3;
-    position: sticky;
-    top: -150px;
-	padding-top: 150px;
-	opacity: 1;
 }
 
 main{
