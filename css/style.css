@@ -96,6 +96,10 @@ h3{
     color:black
 }
 
+nav{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
 nav a {
     color: black;
     display: block;
