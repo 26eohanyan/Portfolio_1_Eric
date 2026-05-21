@@ -95,3 +95,15 @@ h3{
     font-size: 50.52px;
     color:black
 }
+
+nav a {
+    color: black;
+    display: block;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: blue;
+    color: navy;
+    text-decoration: none;
+}
