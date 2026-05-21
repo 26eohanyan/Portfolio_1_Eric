@@ -62,7 +62,7 @@ html{
 }
 
 .class3:hover{
-    background-color:lightgrey;
+    background-color:navy;
 }
 
 .section-break {
@@ -76,7 +76,7 @@ h1, h2, h3, p, ul{
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
-    color: darkred;
+    color: navy;
     line-height: 1.75;
 
 }
@@ -104,6 +104,6 @@ nav a {
 
 nav a:hover {
     background-color: blue;
-    color: navy;
+    color: white;
     text-decoration: none;
 }
