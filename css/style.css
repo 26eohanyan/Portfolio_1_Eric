@@ -21,8 +21,10 @@ header{
     position: fixed;
     width: 100%;
   	/* top: -10px; */
-	padding-top: 20px;
+	padding-top: 25px;
 	opacity: 1;
+    top: 0px;
+    left: 0px;
 }
 
 footer{
@@ -42,8 +44,8 @@ nav{
     flex: 0.3;
     position: fixed;
     
-    top: 250px;
-    left: 10px;
+    top: 247px;
+    left: 0px;
     height: 100%;
     background-color: gray;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -92,7 +94,7 @@ section{
     margin-bottom: 20rem;
 }
 
-h1, h2, h3, p, ul{
+h1, h2, h3, p, ul, footer{
     text-align: center;
 }
 
