@@ -91,7 +91,7 @@ main{
 } */
 
 section{
-    margin-bottom: 20rem;
+    padding-top: 20rem;
 }
 
 h1, h2, h3, p, ul, footer{
@@ -116,8 +116,8 @@ h2{
     color:navy;
 }
 h3{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'times new roman', sans-serif;
     font-size: 50.52px;
-    color:black
+    color:navy;
 }
 
